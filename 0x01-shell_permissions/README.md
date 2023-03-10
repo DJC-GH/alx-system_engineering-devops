@@ -1,11 +1,9 @@
-0. Create a script that changes your user ID to betty.
+0.0-iam_betty Creates a script that changes your user to betty.
 
-You should use exactly 8 characters for your command (+1 character for the new line)
-You can assume that the user betty will exist when we will run your script
-1. Who am I mandatory
+1.1-who_am_i creates a script that prints the effective username of the current user.
 
-Write a script that prints the effective userid of the current user.
-2. Groups mandatory
+
+2.2-groups creates a script that prints all the groups the current user is part of.
 
 Write a script that prints all the groups the current user is part of.
 3. New owner mandatory
