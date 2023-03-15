@@ -1,1 +1,1 @@
-This repo is about creating executable scipts
+‘This repository contains solutions to shell tasks’
